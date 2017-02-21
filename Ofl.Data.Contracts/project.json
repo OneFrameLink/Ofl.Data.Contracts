@@ -1,0 +1,30 @@
+﻿{
+  "authors": [
+    "One Frame Link"
+  ],
+  "description": "Abstractions used by the Ofl.Data project",
+  "supports": {},
+  "dependencies": {
+    "Microsoft.EntityFrameworkCore": "1.1.0",
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+    "NETStandard.Library": "1.6.0",
+    "System.Data.SqlClient": "4.3.0"
+  },
+  "frameworks": {
+    "netstandard1.3": {}
+  },
+  "packOptions": {
+    "owners": [
+      "One Frame Link"
+    ],
+    "summary": "Abstractions used by the Ofl.Data project.",
+    "projectUrl": "https://github.com/OneFrameLink/Ofl.Data.Contracts",
+    "iconUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/OneFrameLink_225x225.png",
+    "licenseUrl": "https://raw.githubusercontent.com/OneFrameLink/Ofl._Shared/master/LICENSE.md",
+    "requireLicenseAcceptance": true,
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/OneFrameLink/Ofl.Data.Contracts.git"
+    }
+  }
+}
