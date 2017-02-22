@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace Ofl.Data.EntityFramework.Contracts
+namespace Ofl.Data.EntityFramework
 {
     public interface IDbContextFactory
     {

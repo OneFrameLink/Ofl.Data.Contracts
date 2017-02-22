@@ -42,9 +42,9 @@
     <Compile Include="..\_shared\GlobalAssemblyInfo.cs">
       <Link>[common]\GlobalAssemblyInfo.cs</Link>
     </Compile>
-    <Compile Include="EntityFramework\Contracts\IDbContextFactory.cs" />
+    <Compile Include="EntityFramework\IDbContextFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SqlClient\Contracts\ISqlConnectionFactory.cs" />
+    <Compile Include="SqlClient\ISqlConnectionFactory.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

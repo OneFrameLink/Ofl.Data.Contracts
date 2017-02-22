@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Ofl.Data.SqlClient.Contracts
+namespace Ofl.Data.SqlClient
 {
     public interface ISqlConnectionFactory
     {
